@@ -1,5 +1,5 @@
 /**
- * Erstes Test Projekt mit Ausgabe 'Hello World'
+ * Programm für die Ausgabe von 'Hello World'
  */
 
 #include <stdio.h>
