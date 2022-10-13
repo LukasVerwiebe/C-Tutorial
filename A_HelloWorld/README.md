@@ -8,6 +8,7 @@ Ein Hallo-Welt-Programm ist ein kleines Computerprogramm, das auf möglichst ein
 - Geschweifte Klammern gruppieren Anweisungen zu Blöcken
 - Jede logische Programmzeile wird durch ein ';' abgeschlossen
 - Die Funktion main liefert einen Resultatwert an die aufgerufende Umgebung
+- Für die Nutzung von Funktionen der einer Bibliothek wird #include verwendet im Anschluss folgt die Angabe der Bibliothek <stdio.h>, bei dem Beispiel handelt es sich um die Standard Bibliothek 
 
 
 ## Bild
