@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/F_Arithmetische_Operatoren/cmake-build-debug/CMakeFiles/F_Arithmetische_Operatoren.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/F_Arithmetische_Operatoren/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/F_Arithmetische_Operatoren/cmake-build-debug/CMakeFiles/rebuild_cache.dir
