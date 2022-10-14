@@ -5,8 +5,8 @@ Dieses Programm enthält Beispiele für die Verwendung von Benutzereingaben.
 ## Beschreibung
 
 - Die Funktion 'scanf' liest eine formatierte Eingabe von der Tastatur
- - 1. Parameter ist ein Formatstring
- - 2. ... n. Parameter entsprechend der Platzhalter im Formatstring
+ - 1: Parameter ist ein Formatstring
+ - 2: ... n. Parameter entsprechend der Platzhalter im Formatstring
 - Der Compiler findet keine Inkonsistenzen zwischen Parametern und Platzhaltern im Formatstring. Auch zur Laufzeit erhalten Sie keine Fehlermeldungen vom System
 
 
