@@ -4,13 +4,13 @@ Dieses Programm enthält Beispiele für die Verwendung von Arithmetischen Operat
 
 ## Beschreibung
 
-- + Addition
-- - Subtraktion
-- * Multiplikation
-- / Division
-- % Modulo
-- ++ inkrementieren
-- -- dekrementieren
+- '+' Addition
+- '-' Subtraktion
+- '*' Multiplikation
+- '/' Division
+- '%' Modulo
+- '++' inkrementieren
+- '--' dekrementieren
 
 ## Bild
 
