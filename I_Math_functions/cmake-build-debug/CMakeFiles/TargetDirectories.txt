@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/I_Math_functions/cmake-build-debug/CMakeFiles/I_Math_functions.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/I_Math_functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/I_Math_functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

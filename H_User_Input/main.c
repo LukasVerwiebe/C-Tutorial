@@ -6,6 +6,19 @@
 
 int main(void)
 {
-	printf("Hello, World!\n");
+	char name[25];
+	int alter;
+
+	printf("Wie ist dein name?\n");
+	//scanf("%s", &name);
+	fgets(name, 25, stdin);
+
+	printf("Wie alt bist du?\n");
+	scanf("%d", &alter);
+
+	printf("Hallo %s, wie geht es dir?\n", name);
+	printf("Du bist %d Jahre alt.", alter);
+
 	return 0;
 }
+
