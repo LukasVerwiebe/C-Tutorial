@@ -9,6 +9,7 @@ Ein Hallo-Welt-Programm ist ein kleines Computerprogramm, das auf möglichst ein
 - Jede logische Programmzeile wird durch ein ';' abgeschlossen
 - Die Funktion main liefert einen Resultatwert an die aufgerufende Umgebung
 - Für die Nutzung von Funktionen einer Bibliothek wird #include verwendet, im Anschluss folgt die Angabe der Bibliothek <stdio.h> (bei dem Beispiel handelt es sich um die Standard-Bibliothek)
+- Jedes C Programm muss mit dem Keyword return und einem Wert beendet werden, dabei wird der Endzustand des Programms angegeben in diesem Beispiel 0. Wenn die 0 zurückgegeben wird, dann ist das Programm erfolgreich gelaufen anderenfalls ist ein Fehler aufgetreten. 
 
 
 ## Bild
