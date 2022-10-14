@@ -1,13 +1,21 @@
-# C-Tutorial: Datentypen
+# C-Tutorial: Arithmetische Operatoren
 
-Dieses Programm enthält Beispiele für weitere Datentypen.
+Dieses Programm enthält Beispiele für die Verwendung von Arithmetischen Operatoren.
 
 ## Beschreibung
 
-- Mittels des Schlüsselwortes 'unsigned' wird verhindert, dass eine negative Zahl angegeben werden kann und das sich die mögliche Größe der positiven Zahl verdoppelt
-- Neben 'float' gibt es noch 'double' damit können längere Kommazahlen angegeben werden. Meist wird double verwendet, gerade dann wenn Zahlen wie Geldbeträge berechnet werden sollen, da eine Höhere Genaugkeit erreicht wird
-- Zusätzlich gibt es noch 'short' und 'long' für die Angabe von entweder kleinen Zahlen oder sehr Großen Zahlen
+- '+' Addition
+- '-' Subtraktion
+- '*' Multiplikation
+- '/' Division
+- '%' Modulo
+- '++' inkrementieren
+- '--' dekrementieren
 
 ## Bild
 
-![image](https://user-images.githubusercontent.com/63674539/195909342-d29a2aca-062e-45bf-80fd-4aaaa8a217fe.png)
+![image](https://user-images.githubusercontent.com/63674539/195932890-1b7268e2-9db7-425a-8b62-7902ccfbc1df.png)
+
+### Ausgabe
+
+![image](https://user-images.githubusercontent.com/63674539/195932968-098ca04f-f879-4181-8ecf-16cf7c9a8c5d.png)
