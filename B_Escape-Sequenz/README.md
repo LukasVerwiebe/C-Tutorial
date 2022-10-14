@@ -1,16 +1,27 @@
-# C-Tutorial: HelloWorld
+# C-Tutorial: Escape-Sequenz
 
-Ein Hallo-Welt-Programm ist ein kleines Computerprogramm, das auf möglichst einfache Weise zeigen soll, welche Anweisungen oder Bestandteile für ein vollständiges Programm in einer Programmiersprache benötigt werden, und somit einen ersten Einblick in die Syntax gibt. Aufgabe des Programms ist, den Text Hallo Welt!
+Dieses Programm enthält Beispiele für die Nutzung von Escape-Sequenzen.
 
 ## Beschreibung
 
-- Jedes ausführbare Programm enthält genau eine Funktion main
-- Geschweifte Klammern gruppieren Anweisungen zu Blöcken
-- Jede logische Programmzeile wird durch ein ';' abgeschlossen
-- Die Funktion main liefert einen Resultatwert an die aufgerufende Umgebung
-- Für die Nutzung von Funktionen einer Bibliothek wird #include verwendet, im Anschluss folgt die Angabe der Bibliothek <stdio.h> (bei dem Beispiel handelt es sich um die Standard-Bibliothek)
+- Eine Escape-Sequenz ist eine Kommbination von Zeichen die mit einem '\' begonnen werden, auf dieses dann ein Buchstabe oder ein anderes Symbol folgt
+- Sie geben Aktionen innerhalb einer Textzeile oder -zeichenfolge an
+  - n = Neue Zeile
+  - t = Tab
+  - \ = Anzeige von \
+  - ' = Anzeige von '
+  - " = Anzeige von "
 
+
+## Einschub: Kommentare
+
+- Ein Kommentar über mehrere Zeilen wird mit '/*' begonnen und mit '*/' beendet
+- Ein Kommentar über eine einzelne Zeile wird mit '//' erstellt
 
 ## Bild
 
-![image](https://user-images.githubusercontent.com/63674539/195732154-d67bafcc-4c8d-47d1-9dee-41f38fbd5de5.png)
+![image](https://user-images.githubusercontent.com/63674539/195868947-4961682a-e1c5-4b0d-831c-b546c7c6c741.png)
+
+### Ausgabe
+
+![image](https://user-images.githubusercontent.com/63674539/195869038-fd53786c-9a49-4821-a503-cd13407534a4.png)
