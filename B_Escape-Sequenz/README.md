@@ -20,4 +20,8 @@ Dieses Programm enthält Beispiele für die Nutzung von Escape-Sequenzen.
 
 ## Bild
 
-![image](https://user-images.githubusercontent.com/63674539/195732154-d67bafcc-4c8d-47d1-9dee-41f38fbd5de5.png)
+![image](https://user-images.githubusercontent.com/63674539/195868947-4961682a-e1c5-4b0d-831c-b546c7c6c741.png)
+
+### Ausgabe
+
+![image](https://user-images.githubusercontent.com/63674539/195869038-fd53786c-9a49-4821-a503-cd13407534a4.png)
