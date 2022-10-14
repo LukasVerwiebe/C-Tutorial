@@ -1,34 +1,11 @@
-# C-Tutorial: Variablen
+# C-Tutorial: Datentypen
 
-Dieses Programm enthält Beispiele für die Nutzung von Variablen.
+Dieses Programm enthält Beispiele für weitere Datentypen.
 
 ## Beschreibung
 
-- Zugewiesener Speicherplatz im Arbeitsspeicher zum Speichern eines Werts
-- um auf den gespeicherten Wert zuzugreifen, muss sich auf den Namen einer Variablen bezogen werden
-- Die Variable verhält sich jetzt so, als wäre sie der Wert, den sie enthält
-- Aber es muss angegeben werden, welche Art von Daten gespeichert werden soll
-
-## Formatierte Ausgabe
-
-- Die Funktion printf dient der formatierten Ausgabe interner Werte
-- Für jeden Platzhalter im Formatstring - mit % gekennzeichnet - erwartet printf einen Parameter
-- Die Platzhalter werden bei der Ausgabe durch die entsprechenden Parameter ersetzt
-- Der Compiler prüft nicht, ob Platzhalter und Parameter im Formatstring zusammenpassen
-- Der Platzhalter bestimmt den Typ des Parameters:
-  - %d = Integer Wert
-  - %f = Double Wert
-  - %c = Einzelnes Zeichen
-  - %s = Zeichenkette
-- Zudem können noch spezifiziert werden:
-  - Darstellungsbreite (minimale Feldgröße), Beispiel: %3d
-  - Genauigkeit bei Gleitpunktzahlen, Beipiel: %6.1f
-  - Ausrichtung (links- oder rechtsbündig), Beipsiel: %-3d
+- Mittels des Schlüsselwortes 'unsigned' wird verhindert, dass eine negative Zahl angegeben werden kann und das sich die mögliche Größe der positiven Zahl verdoppelt 
 
 ## Bild
 
-![image](https://user-images.githubusercontent.com/63674539/195881045-264e5e85-5e2f-4e0e-8204-10ba32104095.png)
-
-### Ausgabe
-
-![image](https://user-images.githubusercontent.com/63674539/195881138-f6bb9fb9-f073-4b27-827b-11ab265afce2.png)
+![image](https://user-images.githubusercontent.com/63674539/195909342-d29a2aca-062e-45bf-80fd-4aaaa8a217fe.png)
