@@ -5,7 +5,13 @@ Dieses Programm enthält Beispiele für die Nutzung von Escape-Sequenzen.
 ## Beschreibung
 
 - Eine Escape-Sequenz ist eine Kommbination von Zeichen die mit einem '\' begonnen werden, auf dieses dann ein Buchstabe oder ein anderes Symbol folgt
-- Sie geben Aktionen innerhalb einer Textzeile oder -zeichenfolge an 
+- Sie geben Aktionen innerhalb einer Textzeile oder -zeichenfolge an
+  - \n = Neue Zeile
+  - \t = Tab
+  - \\ = Anzeige von \
+  - \' = Anzeige von '
+  - \" = Anzeige von "
+
 
 ## Einschub: Kommentare
 
