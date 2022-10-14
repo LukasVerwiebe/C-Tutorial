@@ -15,6 +15,11 @@ int main()
 	char buchstabe = 'C';	// Einzelnes Zeichen
 	char name[] = "Lukas";	// Zeichenkette
 
-
+	printf("Du bist alter %d jahre alt.\n", alter);
+	printf("Du hast eine %f in der Klausur geschrieben.\n", note);
+	printf("Du hast eine %6.1f in der Klausur geschrieben.\n", note);
+	printf("Dies ist der Buchstabe %c.\n", buchstabe);
+	printf("Dein Name ist %s.\n", name);
 	return 0;
 }
+
