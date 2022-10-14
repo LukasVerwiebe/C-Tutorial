@@ -1,13 +1,15 @@
-# C-Tutorial: Zuweisungsoperatoren
+# C-Tutorial: Benutzereingaben
 
-Dieses Programm enthält Beispiele für die Verwendung von Zuweisungsoperatoren.
+Dieses Programm enthält Beispiele für die Verwendung von Benutzereingaben.
 
 ## Beschreibung
 
-- Wird verwendet, um eine Anweisung zu ersetzen, bei der ein Operator eine Variable als eines seiner Argumente verwendet und das Ergebnis anschließend derselben Variablen wieder zuweist
-- Beispiel: (Normal) x = x + 1; (Zuweisungsoperator) x += 1
- 
+- Die Funktion 'scanf' liest eine formatierte Eingabe von der Tastatur
+ - 1: Parameter ist ein Formatstring
+ - 2: ... n. Parameter entsprechend der Platzhalter im Formatstring
+- Der Compiler findet keine Inkonsistenzen zwischen Parametern und Platzhaltern im Formatstring. Auch zur Laufzeit erhalten Sie keine Fehlermeldungen vom System
+
 
 ## Bild
 
-![image](https://user-images.githubusercontent.com/63674539/195955025-6ccec68d-9721-44c7-a86d-833229ce89ef.png)
+![image](https://user-images.githubusercontent.com/63674539/195956921-fa1b8fb1-27d2-45f5-bf98-c1346160faaf.png)
