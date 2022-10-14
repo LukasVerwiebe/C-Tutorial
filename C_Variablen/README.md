@@ -14,11 +14,16 @@ Dieses Programm enthält Beispiele für die Nutzung von Variablen.
 - Die Funktion printf dient der formatierten Ausgabe interner Werte
 - Für jeden Platzhalter im Formatstring - mit % gekennzeichnet - erwartet printf einen Parameter
 - Die Platzhalter werden bei der Ausgabe durch die entsprechenden Parameter ersetzt
-- Der Platzhalter bestimmt den Typ des Parameters
+- Der Platzhalter bestimmt den Typ des Parameters:
   - %d = Integer Wert
   - %f = Double Wert
   - %c = Einzelnes Zeichen
   - %s = Zeichenkette
+
+- Zudem können noch spezifiziert werden:
+  - Darstellungsbreite (minimale Feldgröße), Beispiel: %3d
+  - Genauigkeit bei Gleitpunktzahlen, Beipiel: %6.1f
+  - Ausrichtung (links- oder rechtsbündig), Beipsiel: %-3d
 
 ## Bild
 
