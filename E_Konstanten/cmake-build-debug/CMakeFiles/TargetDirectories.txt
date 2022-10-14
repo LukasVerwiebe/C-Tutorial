@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/E_Konstanten/cmake-build-debug/CMakeFiles/E_Konstanten.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/E_Konstanten/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/E_Konstanten/cmake-build-debug/CMakeFiles/rebuild_cache.dir
