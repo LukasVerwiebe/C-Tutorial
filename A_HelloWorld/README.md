@@ -9,7 +9,8 @@ Ein Hallo-Welt-Programm ist ein kleines Computerprogramm, das auf möglichst ein
 - Jede logische Programmzeile wird durch ein ';' abgeschlossen
 - Die Funktion main liefert einen Resultatwert an die aufgerufende Umgebung
 - Für die Nutzung von Funktionen einer Bibliothek wird #include verwendet, im Anschluss folgt die Angabe der Bibliothek <stdio.h> (bei dem Beispiel handelt es sich um die Standard-Bibliothek)
-- Eine 'return' -Anweisung beendet die Ausführung einer Funktion und gibt die Steuerung an die aufrufende Funktion zurück. Eine 'return' -Anweisung kann einen Wert an die aufrufende Funktion zurückgeben.
+- Eine 'return' -Anweisung beendet die Ausführung einer Funktion und gibt die Steuerung an die aufrufende Funktion zurück. Eine 'return' -Anweisung kann einen Wert an die aufrufende Funktion zurückgeben
+- Da es sich bei der 'main' Funktion um eine 'int main' handelt muss die Funktion einen Wert zurückgeben, allerdings wird für die Ausführung des HelloWorld Programm kein Rückgabewert benötigt, daher wird einfach 0 zurückgegeben es wäre aber auch jeder andere Wert wie 1, 2, 56, 29 usw. möglich  
 
 
 ## Bild
