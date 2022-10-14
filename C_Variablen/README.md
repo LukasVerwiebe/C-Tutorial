@@ -17,7 +17,8 @@ Dieses Programm enthält Beispiele für die Nutzung von Variablen.
 - Der Compiler prüft nicht, ob Platzhalter und Parameter im Formatstring zusammenpassen
 - Der Platzhalter bestimmt den Typ des Parameters:
   - %d = Integer Wert
-  - %f = Double Wert
+  - %f = Float Wert
+  - %lf = Double Wert
   - %c = Einzelnes Zeichen
   - %s = Zeichenkette
 - Zudem können noch spezifiziert werden:
