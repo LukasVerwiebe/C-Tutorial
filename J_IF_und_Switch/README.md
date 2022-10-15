@@ -1,27 +1,27 @@
-# C-Tutorial: Math functions
+# C-Tutorial: If und Switch
 
-Dieses Programm enthält Beispiele für die Verwendung von Math functions.
+Dieses Programm enthält Beispiele für die Verwendung von If und Switch.
 
-## Beschreibung
+## Beschreibung: If
 
-- Mit der Bibliothek 'math.h' können Mathematische Funktionen wie z.B. die Berechnung einer Quadratwurzel zu einer Zahl in eimen Programm implementiert werden
-- Übersicht über Verfügbare Funktionen: (nicht vollständig)
- - sqrt() = Quadratwurzelberechnen
- - pow() = Berechnung von Hochzahlen
- - round() = Eine Zahl Runden
- - ceil() = Eine Zahl Aufrunden
- - floor() = Eine Zahl Abrunden
- - fabs() = Rückgabe des Absoluten Wertes einer Zahl
- - log() = Logarithmus Berechnung
- - sin() = Sinus Berechnung
- - cos() = Cosinus Berechnung
- - tan() = Tangens Berechnung
+- Eine Verzweigung innerhalb eines Programms wird durch eine Bedingung entschieden
+- Solche Entscheidungen realisieren wir mit der if und else Anweisung. Nach dem Schlüsselwort if folgen Klammern, in denen die Bedingung formuliert wird. Ist die Bedingung wahr, werden die Code-Zeilen zwischen den geschweiften Klammern { } ausgeführt
+- Wenn die Bedingung nicht erfüllt ist, kann man noch eine Alternative mittels else setzen
+- Möchte man verschiedene Fälle nacheinander prüfen, so kann man die if Anweisung schachteln
 
+## Beschreibung: Switch
 
-## Bild
+- Möchten wir viele Fälle unterscheiden und für jeden Fall unterschiedliche Aktionen ausführen, so können wir das mit vielen if Anweisungen oder mit einer switch case Anweisung erreichen
+- In die Klammern nach dem Schlüsselwort switch schreiben wir den Ausdruck, welchen wir auswerten möchten
+- Danach folgen mit dem Schlüsselwort case die verschiedenen Fälle, nach dem Doppelpunkt die auszuführenden Befehle
+- Der case Block wird mit break abgeschlossen. Dies ist unbedingt notwendig
+- Mit break wird bei erfolgreichem Ausführen eines Falles die switch Anweisung verlassen
+- Wird kein Fall erreicht, wird der default Block ausgeführt
 
-![image](https://user-images.githubusercontent.com/63674539/195960401-10f417e4-6d36-4eae-b361-8fded5587e41.png)
+## Bild: If
 
-### Ausgabe
+![image](https://user-images.githubusercontent.com/63674539/195984104-4deadb9a-6502-458a-a5e9-a55796a41017.png)
 
-![image](https://user-images.githubusercontent.com/63674539/195960426-59ec3764-3532-4546-81ca-f55c1b7e98e3.png)
+## Bild: Switch
+
+![image](https://user-images.githubusercontent.com/63674539/195985856-975b9f8f-c35a-478b-bb85-2add1cbebf00.png)
