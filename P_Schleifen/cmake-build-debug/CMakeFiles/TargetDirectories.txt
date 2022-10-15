@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/P_Schleifen/cmake-build-debug/CMakeFiles/P_Schleifen.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/P_Schleifen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/P_Schleifen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
