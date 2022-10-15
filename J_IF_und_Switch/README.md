@@ -11,6 +11,12 @@ Dieses Programm enthält Beispiele für die Verwendung von If und Switch.
 
 ## Beschreibung: Switch
 
+- Möchten wir viele Fälle unterscheiden und für jeden Fall unterschiedliche Aktionen ausführen, so können wir das mit vielen if Anweisungen oder mit einer switch case Anweisung erreichen
+- In die Klammern nach dem Schlüsselwort switch schreiben wir den Ausdruck, welchen wir auswerten möchten
+- Danach folgen mit dem Schlüsselwort case die verschiedenen Fälle, nach dem Doppelpunkt die auszuführenden Befehle
+- Der case Block wird mit break abgeschlossen. Dies ist unbedingt notwendig
+- Mit break wird bei erfolgreichem Ausführen eines Falles die switch Anweisung verlassen
+- Wird kein Fall erreicht, wird der default Block ausgeführt
 
 ## Bild: If
 
