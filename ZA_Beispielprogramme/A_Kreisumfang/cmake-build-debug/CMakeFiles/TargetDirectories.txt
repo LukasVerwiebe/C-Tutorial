@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/A_Kreisumfang/cmake-build-debug/CMakeFiles/A_Kreisumfang.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/A_Kreisumfang/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/A_Kreisumfang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
