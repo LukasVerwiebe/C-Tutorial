@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/C_Temperatur/cmake-build-debug/CMakeFiles/C_Temperatur.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/C_Temperatur/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/C_Temperatur/cmake-build-debug/CMakeFiles/rebuild_cache.dir
