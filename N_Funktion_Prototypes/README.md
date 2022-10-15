@@ -1,10 +1,10 @@
-# C-Tutorial: Prototyp Funktionen
+# C-Tutorial: Funktionsprototyp
 
-Dieses Programm enthält Beispiele für die Verwendung von Prototyp Funktionen.
+Dieses Programm enthält Beispiele für die Verwendung von Funktionsprototypen.
 
 ## Beschreibung
 
-- Eine Prototyp Funktion ist eine Funktion welche vor der Main Funktion ohne einen eigenen Block derklariert wird
+- Ein Funktionsprototyp ist eine Funktion welche vor der Main Funktion ohne einen eigenen Block derklariert wird
 - Stellt sicher, dass Aufrufe einer Funktion mit den richtigen Argumenten erfolgen
 - Viele C-Compiler prüfen nicht auf Parameterübereinstimmung
 - Fehlende Argumente führen zu unerwartetem Verhalten
