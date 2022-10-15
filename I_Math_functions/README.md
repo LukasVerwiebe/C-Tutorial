@@ -1,6 +1,6 @@
-# C-Tutorial: Benutzereingaben
+# C-Tutorial: Math functions
 
-Dieses Programm enthält Beispiele für die Verwendung von Benutzereingaben.
+Dieses Programm enthält Beispiele für die Verwendung von Math functions.
 
 ## Beschreibung
 
@@ -12,4 +12,8 @@ Dieses Programm enthält Beispiele für die Verwendung von Benutzereingaben.
 
 ## Bild
 
-![image](https://user-images.githubusercontent.com/63674539/195956921-fa1b8fb1-27d2-45f5-bf98-c1346160faaf.png)
+![image](https://user-images.githubusercontent.com/63674539/195960401-10f417e4-6d36-4eae-b361-8fded5587e41.png)
+
+### Ausgabe
+
+![image](https://user-images.githubusercontent.com/63674539/195960426-59ec3764-3532-4546-81ca-f55c1b7e98e3.png)
