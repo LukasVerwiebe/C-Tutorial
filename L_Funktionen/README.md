@@ -1,15 +1,20 @@
-# C-Tutorial: Logische Operatoren
+# C-Tutorial: Funktionen
 
-Dieses Programm enthält Beispiele für die Verwendung von Logischen Operatoren.
+Dieses Programm enthält Beispiele für die Verwendung von Funktionen.
 
 ## Beschreibung
 
-- Die logischen Operatoren führen logical-AND-Vorgänge ( && ) und logical-OR-Vorgänge ( || ) aus
-- Der logische AND-Operator gibt den Wert 1 an, wenn beide Operanden Werte ungleich 0 aufweisen. Wenn einer der beiden Operanden gleich 0 (null) ist, ist das Ergebnis 0 (null). Wenn der erste Operand einer logischen AND-Operation gleich 0 ist, wird der zweite Operand nicht ausgewertet
-- Der logische OR-Operator führt eine inklusive OR-Operation für seinen Operanden aus. Das Ergebnis ist 0 (null), wenn beide Operanden den Wert 0 (null) aufweisen. Wenn einer der beiden Operanden einen Wert ungleich 0 (null) aufweist, ist das Ergebnis 1. Wenn der erste Operand einer logischen OR-Operation einen Wert ungleich 0 (null) aufweist, wird der zweite Operand nicht ausgewertet
-
+- Wenn wir alle unsere Aktionen in dem 'main' Block unterbringen, wird unser Programm schnell sehr lang und unübersichtlich. Um Ordnung in die Aktionen zu bringen, zerlegen wir große Probleme in kleine Teilprobleme. Diese Teilprobleme legen wir dann als „Funktion“ getrennt vom Hauptprogramm ab. Eine Funktion erledigt immer eine bestimmte Aufgabe
+- Damit eine Funktion nach unseren Wünschen arbeitet, kann man ihr Werte übergeben, sogenannte Parameter. Für diese Parameter muss auch ein Datentyp festgelegt werden
+- Eine Funktion liefert uns ein Ergebnis wenn ein 'return' verwendet wird – dies ist der Rückgabewert. Für diesen Rückgabewert muss auch wieder ein Datentyp festgelegt werden, dies geschieht am Anfang der Funktion vor dem Funktionsnamen mit z.B. der Angabe int
+- Damit wir im Hauptprogramm eine Funktion ansprechen können, muss diese dem Hauptprogramm bekannt sein. Dies erreichen wir, indem die Funktion über das Hauptprogramm platziert wird
+- Nach dem Namen schreiben wir zwischen den Klammern die Parameter, ebenfalls mit voran geschriebenen Datentyp z.B. (int summand1, int summand2). Hat die Funktion mehrere Parameter, werden diese mit einem Komma , getrennt
+- Danach folgt ein üblicher Block mit { }. Dieser enthält im Beispiel lediglich eine return Anweisung. Mit return wird die Funktion beendet und ein Wert zurückgegeben
 
 ## Bild
 
-![image](https://user-images.githubusercontent.com/63674539/195988631-db4d58c3-156c-447c-b42a-9ff6c8f25edf.png)
+![image](https://user-images.githubusercontent.com/63674539/195995658-51ac85a2-0255-487e-aa12-e25b9cefe75c.png)
 
+### Ausgabe
+
+![image](https://user-images.githubusercontent.com/63674539/195995699-736aa398-c7c6-4377-b81d-1ddc32fa2fd9.png)
