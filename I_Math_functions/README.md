@@ -4,10 +4,18 @@ Dieses Programm enthält Beispiele für die Verwendung von Math functions.
 
 ## Beschreibung
 
-- Die Funktion 'scanf' liest eine formatierte Eingabe von der Tastatur
- - 1: Parameter ist ein Formatstring
- - 2: ... n. Parameter entsprechend der Platzhalter im Formatstring
-- Der Compiler findet keine Inkonsistenzen zwischen Parametern und Platzhaltern im Formatstring. Auch zur Laufzeit erhalten Sie keine Fehlermeldungen vom System
+- Mit der Bibliothek 'math.h' können Mathematische Funktionen wie z.B. die Berechnung einer Quadratwurzel zu einer Zahl in eimen Programm implementiert werden
+- Übersicht über Verfügbare Funktionen: (nicht vollständig)
+ - sqrt() = Quadratwurzelberechnen
+ - pow() = Berechnung von Hochzahlen
+ - round() = Eine Zahl Runden
+ - ceil() = Eine Zahl Aufrunden
+ - floor() = Eine Zahl Abrunden
+ - fabs() = Rückgabe des Absoluten Wertes einer Zahl
+ - log() = Logarithmus Berechnung
+ - sin() = Sinus Berechnung
+ - cos() = Cosinus Berechnung
+ - tan() = Tangens Berechnung
 
 
 ## Bild
