@@ -24,4 +24,4 @@ Dieses Programm enthält Beispiele für die Verwendung von If und Switch.
 
 ## Bild: Switch
 
-![image](https://user-images.githubusercontent.com/63674539/195984630-bb08e1a8-d1d5-4986-9c03-28a7899a84ba.png)
+![image](https://user-images.githubusercontent.com/63674539/195985856-975b9f8f-c35a-478b-bb85-2add1cbebf00.png)
