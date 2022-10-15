@@ -1,15 +1,27 @@
-# C-Tutorial: Benutzereingaben
+# C-Tutorial: Math functions
 
-Dieses Programm enthält Beispiele für die Verwendung von Benutzereingaben.
+Dieses Programm enthält Beispiele für die Verwendung von Math functions.
 
 ## Beschreibung
 
-- Die Funktion 'scanf' liest eine formatierte Eingabe von der Tastatur
- - 1: Parameter ist ein Formatstring
- - 2: ... n. Parameter entsprechend der Platzhalter im Formatstring
-- Der Compiler findet keine Inkonsistenzen zwischen Parametern und Platzhaltern im Formatstring. Auch zur Laufzeit erhalten Sie keine Fehlermeldungen vom System
+- Mit der Bibliothek 'math.h' können Mathematische Funktionen wie z.B. die Berechnung einer Quadratwurzel zu einer Zahl in eimen Programm implementiert werden
+- Übersicht über Verfügbare Funktionen: (nicht vollständig)
+ - sqrt() = Quadratwurzelberechnen
+ - pow() = Berechnung von Hochzahlen
+ - round() = Eine Zahl Runden
+ - ceil() = Eine Zahl Aufrunden
+ - floor() = Eine Zahl Abrunden
+ - fabs() = Rückgabe des Absoluten Wertes einer Zahl
+ - log() = Logarithmus Berechnung
+ - sin() = Sinus Berechnung
+ - cos() = Cosinus Berechnung
+ - tan() = Tangens Berechnung
 
 
 ## Bild
 
-![image](https://user-images.githubusercontent.com/63674539/195956921-fa1b8fb1-27d2-45f5-bf98-c1346160faaf.png)
+![image](https://user-images.githubusercontent.com/63674539/195960401-10f417e4-6d36-4eae-b361-8fded5587e41.png)
+
+### Ausgabe
+
+![image](https://user-images.githubusercontent.com/63674539/195960426-59ec3764-3532-4546-81ca-f55c1b7e98e3.png)
