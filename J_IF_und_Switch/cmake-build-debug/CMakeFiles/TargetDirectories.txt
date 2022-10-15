@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/J_IF_und_Switch/cmake-build-debug/CMakeFiles/J_IF_und_Switch.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/J_IF_und_Switch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/J_IF_und_Switch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
