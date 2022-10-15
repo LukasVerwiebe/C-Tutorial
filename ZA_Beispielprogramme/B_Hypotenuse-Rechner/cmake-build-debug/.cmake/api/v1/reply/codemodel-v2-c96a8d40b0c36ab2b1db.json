@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/B_/cmake-build-debug",
-		"source" : "C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/B_"
+		"build" : "C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/B_Hypotenuse-Rechner/cmake-build-debug",
+		"source" : "C:/Ordner/GitHub_Repositorys/C-Tutorial/ZA_Beispielprogramme/B_Hypotenuse-Rechner"
 	},
 	"version" : 
 	{
