@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/M_Tenary_Operator/cmake-build-debug/CMakeFiles/M_Tenary_Operator.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/M_Tenary_Operator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/M_Tenary_Operator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
