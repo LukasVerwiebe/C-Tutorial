@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/L_Funktionen/cmake-build-debug/CMakeFiles/L_Funktionen.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/L_Funktionen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/L_Funktionen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
