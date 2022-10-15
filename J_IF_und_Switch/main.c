@@ -1,5 +1,5 @@
 /*
- *
+ * Programm zur Erläuterung von If und Switch
  */
 
 #include <stdio.h>
