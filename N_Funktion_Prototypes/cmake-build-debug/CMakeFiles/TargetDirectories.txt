@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/N_Funktion_Prototypes/cmake-build-debug/CMakeFiles/N_Funktion_Prototypes.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/N_Funktion_Prototypes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/N_Funktion_Prototypes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
