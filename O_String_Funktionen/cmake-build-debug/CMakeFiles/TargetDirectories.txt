@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/O_String_Funktionen/cmake-build-debug/CMakeFiles/O_String_Funktionen.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/O_String_Funktionen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/O_String_Funktionen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

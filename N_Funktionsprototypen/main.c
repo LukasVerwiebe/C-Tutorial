@@ -21,3 +21,4 @@ void hallo(char name[], int alter)
 	printf("\nHallo %s", name);
 	printf("\nDu bist %d Jahre alt", alter);
 }
+
