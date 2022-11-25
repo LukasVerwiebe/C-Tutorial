@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/R_Strukturen/cmake-build-debug/CMakeFiles/R_Strukturen.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/R_Strukturen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/R_Strukturen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
