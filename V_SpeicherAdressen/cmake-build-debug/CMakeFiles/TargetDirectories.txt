@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/V_SpeicherAdressen/cmake-build-debug/CMakeFiles/V_SpeicherAdressen.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/V_SpeicherAdressen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/V_SpeicherAdressen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

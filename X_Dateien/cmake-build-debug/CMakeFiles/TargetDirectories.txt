@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/X_Dateien/cmake-build-debug/CMakeFiles/X_Dateien.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/X_Dateien/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/X_Dateien/cmake-build-debug/CMakeFiles/rebuild_cache.dir
