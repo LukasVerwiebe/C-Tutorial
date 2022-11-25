@@ -1,0 +1,3 @@
+C:/Ordner/GitHub_Repositorys/C-Tutorial/S_Enum/cmake-build-debug/CMakeFiles/S_Enum.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/S_Enum/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ordner/GitHub_Repositorys/C-Tutorial/S_Enum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
